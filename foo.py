@@ -1,5 +1,6 @@
 
 """Softmax."""
+from doctest import master
 
 scores = [3.0, 1.0, 0.2]
 
@@ -10,3 +11,5 @@ def softmax(x):
     pass  # TODO: Compute and return softmax(x)
 
 print(softmax(scores))
+
+change 1 from master
