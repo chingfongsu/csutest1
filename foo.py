@@ -1,5 +1,12 @@
-this is a foo test.
-another test from webstorm
-yet another test directly from github
-another test from eclipse luna
-seodn push from eclipse luna 
+
+"""Softmax."""
+
+scores = [3.0, 1.0, 0.2]
+
+import numpy as np
+
+def softmax(x):
+    """Compute softmax values for each sets of scores in x."""
+    pass  # TODO: Compute and return softmax(x)
+
+print(softmax(scores))
