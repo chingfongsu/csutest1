@@ -14,7 +14,5 @@ april 1.b on csu0401
 
 april 1 from master
 
-<<<<<<< Upstream, based on branch 'csu0401' of https://github.com/chingfongsu/csutest1.git
-=======
 april 1.b from master
->>>>>>> b7dc974 Update b.py
+
