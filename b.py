@@ -4,3 +4,6 @@ this is b.3 from csu0402
 
 this is b.4 from csu0402-1
 this is b.5 from csu0402-1
+
+this is b.6 from csu0402-2
+this is b.7 from csu0402-2
